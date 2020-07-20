@@ -1,0 +1,26 @@
+{
+  "name": "passwordraterapp",
+  "version": "1.0.0",
+  "main": "Connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "mongod": "^2.0.0",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.25",
+    "nodejs": "0.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "   "
+  },
+  "description": ""
+}
